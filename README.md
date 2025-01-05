@@ -8,6 +8,7 @@ Before running the script, ensure you have the following installed:
 - pypdf library (install using `pip install pypdf`)
 
 ## Run the Script
+From your terminal, type and run the following command:
 ```bash
 python pdf_compress.py
 ```
